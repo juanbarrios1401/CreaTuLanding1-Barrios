@@ -4,7 +4,7 @@ import ItemListContainer from './components/itemListConteiner';
 import Contenedor from './components/contenedor';
 
 function App() {
-  let cantidadEnCarrito= 3;
+  let cantidadEnCarrito= 0;
 
   return (
     <>
